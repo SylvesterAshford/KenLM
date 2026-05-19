@@ -1,4 +1,4 @@
-# class-15 — Domain Adaptation with a Myanmar Language Model
+# Domain Adaptation with a Myanmar Language Model
 
 Tutorial assignment: train a general-domain Myanmar n-gram LM, measure perplexity (PPL) on three out-of-domain test sets (religious / legal / Facebook), then reduce PPL with a domain-adaptation strategy (linear interpolation).
 
