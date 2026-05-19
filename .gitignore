@@ -1,0 +1,46 @@
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Editor / IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === AI assistant configs ===
+.claude/
+.gemini/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
+*.whl
+.venv/
+venv/
+env/
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Generated model files (reproduced by running the notebook) ===
+models/*.arpa
+models/*.bin
+
+# === Generated output plots (reproduced by running the notebook) ===
+outputs/*.png
+
+# === Generated tokenized files (reproduced by running the notebook) ===
+data/train/*.syl.txt
+data/test/*.syl.full.txt
+data/test/*.syl.test.txt
+
+# === Generated report ===
+report.docx
+~$*.docx
