@@ -46,3 +46,4 @@ data/test/*.syl.test.txt
 report.docx
 ~$*.docx
 files/*.docx
+make_report.py
