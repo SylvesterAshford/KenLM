@@ -45,3 +45,4 @@ data/test/*.syl.test.txt
 # === Generated report ===
 report.docx
 ~$*.docx
+files/*.docx
